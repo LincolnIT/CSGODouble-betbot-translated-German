@@ -1,4 +1,4 @@
-# CSGODouble-betBot
+# CSGODouble-betBOT
 ### Ein Skript für CSGoDobule.com
 Das Skript Wettet automatisch in einem ausgesuchten System. Bis zu 25 % Profit täglich !
 
@@ -10,7 +10,7 @@ Program interface
 ```
 1 - Open csgodouble.com in the main page (bets).
 2 - Open the console (SHIFT+CRTL+J)
-3 - Copy the code of csgodouble-betbot.js and paste in console.
+3 - Copy the code of csgodouble-betBOT.js and paste in console.
 4 - The page will change and you chose what you want and next click start. 
 After just need to leave page open and bot will do everyting. 
 ```
@@ -24,6 +24,10 @@ Yes, you can use this script and don't worry about CSGODouble banning you - firs
 The script uses martingale to bet your coins, this means that with every lose it doubles bet value, changing it back to base after win. That, in theory, means you always win base value.
 
 ## Changelog
+
+1.41:
+
+- trasnlated to German (DE)
 
 1.40:
 
@@ -50,7 +54,6 @@ The script uses martingale to bet your coins, this means that with every lose it
 
 - Base bet calculation based on given failsafe value
 
-
 1.22:
 
 - Auto reconnect (without reloading the page!);
@@ -59,7 +62,6 @@ The script uses martingale to bet your coins, this means that with every lose it
 - Fixed an issue when changing bet color;
 - Fixed intervals not being cleared after stopping (backend change);
 - Removed an option to bet negative values;
-
 
 1.2:
 
