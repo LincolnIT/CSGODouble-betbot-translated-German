@@ -1,5 +1,5 @@
 # CSGODouble-betBOT
-### Ein Skript für CSGoDobule.com
+### Ein Skript für CSGODobule.com
 Das Skript Wettet automatisch in einem ausgesuchten System. Bis zu 25 % Profit täglich !
 
 Program interface
