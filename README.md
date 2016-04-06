@@ -1,7 +1,8 @@
 # CSGODouble-bot-automated
-### BOT THAT BETS AUTOMATIC ON CS GO DOUBLE. Profit 100% for sure
+### Ein Skript für CSGODOUBLE.COM. Das Skript Wettet automatisch in einem ausgesuchten System. Bis zu 25 % Profit täglich !
 
 Program interface
+
 ![Screenshot](http://i.imgur.com/5zUcOdL.png?1)
 
 ## How to install??????
