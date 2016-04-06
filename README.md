@@ -1,5 +1,6 @@
-# CSGODouble-bot-automated
-### Ein Skript für CSGODOUBLE.COM. Das Skript Wettet automatisch in einem ausgesuchten System. Bis zu 25 % Profit täglich !
+# CSGODouble-betBot
+### Ein Skript für CSGoDobule.com
+Das Skript Wettet automatisch in einem ausgesuchten System. Bis zu 25 % Profit täglich !
 
 Program interface
 
@@ -9,9 +10,9 @@ Program interface
 ```
 1 - Open csgodouble.com in the main page (bets).
 2 - Open the console (SHIFT+CRTL+J)
-3 - Copy the code of csgodouble-bot-automated.js and paste in console.
+3 - Copy the code of csgodouble-betbot.js and paste in console.
 4 - The page will change and you chose what you want and next click start. 
-After just need to leave page open and bot will do everyting. 100% profit 
+After just need to leave page open and bot will do everyting. 
 ```
 
 ## Is it safe?
